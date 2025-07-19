@@ -1,4 +1,8 @@
 # InfinityOS
+
+![Uploading tux-infnityos.png…]()
+
+
 InfinityOS is a Debian based linux operating system made with Cubic custom ubuntu iso creator.
 
 InfinityOS was ment to be a fun project that targets low end/retro hardware.
